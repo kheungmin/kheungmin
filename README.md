@@ -1,8 +1,9 @@
-# Kim Heung Min
-### Hi Wellcome 👋 </br>I'm HeungMin Kim, I hope to DataEngineer
+# KimHeungMin
+## Hi Wellcome 👋 </br>I'm HeungMin Kim, I hope to DataEngineer
 
 ## 💻 My Stack
-<img alt="Python" src ="https://img.shields.io/badge/-python-yellow"/>
+<img alt="Python" src ="https://img.shields.io/badge/-python-yellow"/><img alt="Java" src ="https://img.shields.io/badge/-Java-orange"/>
+
 
 ## 💻 ...
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
